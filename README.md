@@ -56,10 +56,12 @@ Le fichier app.js contient toute la logique :
 - mise à jour des boutons Like selon si un film est favori ou non
 
 La fonction searchMovies() gère toute la recherche et les filtres.
+
 La fonction displayResults() affiche les résultats à l’écran.
+
 La fonction toggleFavorite() ajoute ou retire un film/une série des favoris.
 
-Objectif atteint
+Objectifs atteints
 
 Ce projet permet :
 
