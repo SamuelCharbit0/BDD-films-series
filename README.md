@@ -17,7 +17,7 @@ Fonctionnalités :
 - Une section dédiée pour afficher les favoris.
 - Les favoris sont enregistrés dans le localStorage.
 
-Fonctionnement du projet :
+Implémentation technique :
 
 1) HTML
 
