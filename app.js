@@ -168,7 +168,7 @@ function searchMovies() {
         .catch(error => console.log("Erreur de recherche: ", error));
 }
 
-// Écouteurs d'événements pour les filtres
+// Ecouteurs d'événements pour les filtres
 searchBtn.addEventListener("click", searchMovies);
 genreFilter.addEventListener("change", searchMovies);
 ratingFilter.addEventListener("change", searchMovies);
@@ -194,4 +194,3 @@ closeFavBtn.addEventListener("click", () => {
 
 // Mettre à jour les boutons "Like" au chargement
 window.addEventListener("load", updateLikeButtons);
-
