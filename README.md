@@ -1,6 +1,6 @@
 Catalogue Films et Séries via une BDD (base de données)
 
-Contexte du projet
+Contexte du projet :
 
 Ce projet consiste à créer une application qui permet de rechercher des films et des séries grâce à l’API OMDB.
 
@@ -8,7 +8,7 @@ Le but était de pouvoir taper un titre, filtrer les résultats, voir les détai
 
 Les favoris sont sauvegardés dans le navigateur pour pouvoir les retrouver plus tard.
 
-Fonctionnalités
+Fonctionnalités :
 
 - Recherche de films et séries avec un champ de texte.
 - Plusieurs filtres : genre, note minimale, année, type (film ou série).
@@ -17,7 +17,7 @@ Fonctionnalités
 - Une section dédiée pour afficher les favoris.
 - Les favoris sont enregistrés dans le localStorage.
 
-Fonctionnement du projet
+Fonctionnement du projet :
 
 1) HTML
 
@@ -61,7 +61,7 @@ La fonction displayResults() affiche les résultats à l’écran.
 
 La fonction toggleFavorite() ajoute ou retire un film/une série des favoris.
 
-Objectifs atteints
+Objectifs atteints :
 
 Ce projet permet :
 
@@ -72,7 +72,7 @@ Ce projet permet :
 
 Il montre l’utilisation d’une API, la manipulation du DOM, la gestion d’événements et l’utilisation du localStorage.
 
-Structure du projet
+Structure du projet :
 
 /
 
